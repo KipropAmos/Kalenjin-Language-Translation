@@ -6,7 +6,7 @@ The project is aims at creating a translation alghorithim from Kalenjin To engli
 ## data sets
 - Two datasets are used in txt format.
   1. kale.txt - contains text in kalenjin 
-  2. eng.txt - contains text in english
+  2. english.txt - contains text in english
   
   
 ## Libraries
